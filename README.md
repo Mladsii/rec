@@ -21,11 +21,9 @@
 
 ### Backend
 
-1. Перейдите в папку backend:
-   ```bash
-   cd /recipes_backend
+
    
-2. Установите зависимости Python:
+1. Установите зависимости Python:
     ```bash
     pip install -r requirements.txt
 
@@ -39,13 +37,8 @@ API будет доступно по адресу: http://127.0.0.1:8000/api/
 
 
 
-Frontend
-
-1. Перейдите в папку backend:
-   ```bash
-   cd /recipes_frontend
    
-2. Установите зависимости Node.js:
+1. Установите зависимости Node.js:
     ```bash
     npm install axios react-router-dom
    
